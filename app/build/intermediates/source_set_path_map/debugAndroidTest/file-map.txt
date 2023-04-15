@@ -1,9 +1,0 @@
-com.example.pcplanner.test.app-androidTest-0 C:\Users\User\Desktop\PCPlanner\app\build\generated\res\resValues\androidTest\debug
-com.example.pcplanner.test.app-androidTest-1 C:\Users\User\Desktop\PCPlanner\app\build\generated\res\rs\androidTest\debug
-com.example.pcplanner.test.app-mergeDebugAndroidTestResources-2 C:\Users\User\Desktop\PCPlanner\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
-com.example.pcplanner.test.app-mergeDebugAndroidTestResources-3 C:\Users\User\Desktop\PCPlanner\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
-com.example.pcplanner.test.app-merged_res-4 C:\Users\User\Desktop\PCPlanner\app\build\intermediates\merged_res\debugAndroidTest
-com.example.pcplanner.test.app-androidTest-5 C:\Users\User\Desktop\PCPlanner\app\src\androidTest\res
-com.example.pcplanner.test.app-androidTestDebug-6 C:\Users\User\Desktop\PCPlanner\app\src\androidTestDebug\res
-com.example.pcplanner.test.app-annotation-experimental-1.3.0-7 G:\PCPlanner\caches\transforms-3\73587f1eb845e337cf4f25957f776481\transformed\annotation-experimental-1.3.0\res
-com.example.pcplanner.test.app-core-1.5.0-8 G:\PCPlanner\caches\transforms-3\da962a5398f8ff3bf21153e86700db65\transformed\core-1.5.0\res

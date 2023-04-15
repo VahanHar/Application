@@ -1,3 +1,0 @@
-com.example.pcplanner.test
-style WhiteBackgroundDialogTheme
-style WhiteBackgroundTheme
